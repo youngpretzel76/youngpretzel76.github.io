@@ -1,5 +1,11 @@
-body {
-    background-color: rgb(95, 130, 161)
+html, body {
+    background-color: rgb(95, 130, 161);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    margin: 0;
+    padding: 0;
 }
 
 .courier-prime-regular {
